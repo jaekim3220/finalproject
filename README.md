@@ -1,9 +1,14 @@
 # 코드 참고
 
-## PCA
+## 회귀분석
+
+jaekim3220/jupyter/E. 확증적 데이터 분석(CDA) /04, 05, 06
+
+### PCA
 1. jaekim3220/jupyter/E. 확증적 데이터 분석(CDA)/04. 선형회귀분석/06-주성분분석(PCA).ipynb
 2. jaekim3220/Semiproject3 - 과정에서 참고
 
+- --------------------
 
 ## 군집화
 
