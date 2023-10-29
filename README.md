@@ -35,6 +35,7 @@ https://velog.io/@nayoung5859/K-means-clustering%EC%9C%BC%EB%A1%9C-%EB%B2%88%ED%
 
 > DBSCAN은 ‘밀도’를 활용하여 복잡하거나 기하학적인 형태를 가진 데이터에도 클러스터링을 적용할 수 있다는 점과 밀도에 따라 자동으로 군집을 형성하는 만큼 밀집도를 필요로 하는 입지 선정에 필요하다고 판단이 가능.
 
-### 계층적 군집
+### 계층적 군집(Hierarchical Clustering)
 - jaekim3220/jupyter/F. 데이터 마이닝/02. Sklearn/19~24
     - jupyter/F. 데이터 마이닝/02. Sklearn/20-계층적군집(2)2_내용추가.ipynb 를 중심으로
+    - sklearn, scipy의 차이를 설명
