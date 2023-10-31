@@ -39,7 +39,7 @@ https://velog.io/@nayoung5859/K-means-clustering%EC%9C%BC%EB%A1%9C-%EB%B2%88%ED%
 - jaekim3220/jupyter/F. 데이터 마이닝/02. Sklearn/19~24
     - jupyter/F. 데이터 마이닝/02. Sklearn/20-계층적군집(2)2_내용추가.ipynb 를 중심으로
     - sklearn, scipy의 차이를 설명
-- 계층적군집.ipynb (my.ver)
-- 데이터분석(3-2.계층군집)-정훈님.ipynb (정훈님.ver)
-- 계층적군집따로학습.ipynb 데이터분석(3-2.계층군집)-정훈님.ipynb을 내 방식데로 반복, subplots 그린거
-> - 계층적군집.ipynb (my.ver)이 맞음.<br/> 한 번에 돌리되 분석할 변수가 매우 많은 경우 차원 축소를 적용 후 진행
+- 계층적군집.ipynb => (my.ver)
+- 데이터분석(3-2.계층군집).ipynb => (정훈님.ver)
+- 계층적군집따로학습.ipynb은 데이터분석(3-2.계층군집).ipynb을 내 방식데로 반복, subplots 그린거
+> - 계층적군집 학습은 계층적군집.ipynb => (my.ver)처럼 한 번에 수행하는게 맞음.<br/> 한 번에 돌리되 분석할 변수가 매우 많은 경우 차원 축소를 적용 후 모델 생성 및 학습을 진행
